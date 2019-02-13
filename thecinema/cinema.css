@@ -1,0 +1,21 @@
+
+.nav-link{
+height: 69px;
+}
+.form-group{
+text-align:center;
+}
+h5{
+padding-bottom: 30px;
+}
+.card-img-top{
+width:338px;
+height:244px;
+}	
+.card-foot1{
+padding-bottom:3em;
+}
+.jumbotron,.container{
+display: block;
+}
+

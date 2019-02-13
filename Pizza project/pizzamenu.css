@@ -1,0 +1,85 @@
+html{
+background-image: url(./image/menu1.jpg);
+width:100%;
+height:100%;
+background-size: cover;
+background-attachment: fixed;
+}
+
+h1{
+text-align: center;
+font-size: 100px; 
+color: white;
+font-family: "Comic Sans MS", cursive, sans-serif;
+}
+#frmMenu{
+margin-top: -2%;
+margin-bottom: 1%;
+display: flex;
+flex-wrap: wrap;
+margin-left: 24%;
+
+}
+#frmMenu1{
+margin-top: -2%;
+margin-bottom: 1%;
+display: flex;
+flex-wrap: wrap;
+margin-left: 24%;
+}
+
+.menu{
+border:3px double gray;
+border-radius: 15px;
+font-size: 20px;
+width: 266.44px;
+height: 380px;
+color: white;
+font-family:"Trebuchet MS", Helvetica, sans-serif;
+margin: 1% 1% 2% 1%;
+}
+.menu1{
+border:3px double gray;
+border-radius: 15px;
+font-size: 20px;
+width: 266.44px;
+height: 380px;
+color: white;
+font-family:"Trebuchet MS", Helvetica, sans-serif;
+margin: 1% 1% 1% 1%;
+}
+h3{
+font-family: "Comic Sans MS", cursive, sans-serif;
+color:white ;
+font-size: 30px;
+padding-left: 10px;
+}
+
+.btn{
+margin-left: 40%;
+margin-top: 3%;
+}
+input{
+padding: 10px 35px 10px 35px;
+font-size: 23px;
+color:white;
+border: 2px solid white;
+background-color: transparent;
+border-radius: 15px;
+font-family: "Comic Sans MS", cursive, sans-serif;
+margin: 10px;
+}
+
+#cart{
+opacity: 0;
+border: 3px groove #e31837;
+padding: 1% 15% 10% 0%;
+color:white;
+font-size: 25px;
+width: 15%;
+height: 25%;
+margin-top: 5%;
+margin-left: 38%;
+border-radius:15px;
+font-family:  "Comic Sans MS", cursive
+}

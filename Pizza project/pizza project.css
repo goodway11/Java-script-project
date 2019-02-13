@@ -1,0 +1,48 @@
+body{
+background-image: url(./image/pizza.jpg);
+width:95%;
+height:100%;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+background-attachment:fixed 
+}
+
+h1{
+font-family:'Amatic SC', cursive;
+font-size:150px;
+color:#F5F5DC;
+text-align: center;
+padding-top: 0px;
+}
+h1:hover{
+color: #e31837;
+transform:scale(1.5)
+}
+
+.menu{
+font-size: 35px;
+font-family: 'Amatic SC', cursive;
+color:white;
+border: 3px solid #F5F5DC;
+border-radius: 10px;
+background-color: transparent;
+padding: 10px 50px 10px 50px;
+margin: 10%;
+margin-left:89%;
+}
+
+#pizza{
+margin-right: 50%;
+margin-top: 5%;
+color:white;
+text-align: center;
+margin-bottom: 50px;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+p{
+margin-right: -101%;
+margin-top: -10%;
+}
